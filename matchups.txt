@@ -1,0 +1,3582 @@
+Matchup between USP and Glock
+
+USP wins at 645.6062355095378
+Glock wins at 571.8666942504949
+
+
+
+Matchup between Glock and P2000
+
+Glock wins at 571.8945816181518
+P2000 wins at 617.2626320725193
+
+
+
+Matchup between Glock and Glock
+
+Glock wins at 465.1741960011139
+Glock wins at 465.1741960011139
+
+
+
+Matchup between Deagle and Deagle
+
+Deagle wins at 719.451553450766
+Deagle wins at 719.451553450766
+
+
+
+Matchup between MP9 and Tec9
+
+MP9 wins at 460.6233266646422
+Tec9 wins at 409.5797343811032
+
+
+
+Matchup between Deagle and MP9
+
+Deagle wins at 517.2405481688925
+MP9 wins at 513.9670700057377
+
+
+
+Matchup between Tec9 and UMP
+
+Tec9 wins at 428.984462405176
+UMP wins at 492.71105110218775
+
+
+
+Matchup between P250 and Famas
+
+P250 wins at 530.1087909823988
+Famas wins at 596.2185944230096
+
+
+
+Matchup between UMP and Deagle
+
+UMP wins at 551.8980386371546
+Deagle wins at 629.9262387238253
+
+
+
+Matchup between Famas and USP
+
+Famas wins at 623.5181281000761
+USP wins at 457.18072442206756
+
+
+
+Matchup between Deagle and Famas
+
+Deagle wins at 656.6449255349338
+Famas wins at 703.9048920974611
+
+
+
+Matchup between UMP and P250
+
+UMP wins at 509.0340419889482
+P250 wins at 503.3754781070246
+
+
+
+Matchup between AK47 and Deagle
+
+AK47 wins at 689.3016096172081
+Deagle wins at 655.275595612358
+
+
+
+Matchup between AWP and Deagle
+
+AWP wins at 1008.3637692392483
+Deagle wins at 674.7715862980959
+
+
+
+Matchup between M4A1 and AK47
+
+M4A1 wins at 705.892344041774
+AK47 wins at 677.1449204439604
+
+
+
+Matchup between MP7 and FiveSeven
+
+MP7 wins at 546.7559175330119
+FiveSeven wins at 511.97844134162597
+
+
+
+Matchup between MP7 and M4A1
+
+MP7 wins at 546.3819242175382
+M4A1 wins at 627.0462370174092
+
+
+
+Matchup between M4A1 and AWP
+
+M4A1 wins at 728.6559088142945
+AWP wins at 944.7934971403627
+
+
+
+Matchup between AK47 and AK47
+
+AK47 wins at 670.3827771380058
+AK47 wins at 670.3827771380058
+
+
+
+Matchup between AK47 and UMP
+
+AK47 wins at 595.8037652232239
+UMP wins at 489.06459536498426
+
+
+
+Matchup between P250 and AK47
+
+P250 wins at 513.8458449401159
+AK47 wins at 590.0620492532909
+
+
+
+Matchup between UMP and M4A1
+
+UMP wins at 470.2567274852072
+M4A1 wins at 671.6778379184609
+
+
+
+Matchup between Famas and UMP
+
+Famas wins at 557.4179404084867
+UMP wins at 495.8659654621943
+
+
+
+Matchup between AK47 and AWP
+
+AK47 wins at 719.3801947724799
+AWP wins at 960.6446651875025
+
+
+
+Matchup between Scout and Tec9
+
+Scout wins at 1022.5749275135614
+Tec9 wins at 429.62780916024235
+
+
+
+Matchup between AK47 and Tec9
+
+AK47 wins at 596.1392047898786
+Tec9 wins at 453.2112675486918
+
+
+
+Matchup between M4A1 and Deagle
+
+M4A1 wins at 739.1799790995175
+Deagle wins at 648.380117344347
+
+
+
+Matchup between P250 and M4A1
+
+P250 wins at 464.37864888603593
+M4A1 wins at 631.7243016422563
+
+
+
+Matchup between AWP and Scout
+
+AWP wins at 1510.3995507214472
+Scout wins at 1385.0021608934337
+
+
+
+Matchup between AWP and AWP
+
+AWP wins at 1260.7483008840616
+AWP wins at 1260.7483008840616
+
+
+
+Matchup between Tec9 and Deagle
+
+Tec9 wins at 449.58930443575235
+Deagle wins at 524.4543958183469
+
+
+
+Matchup between P2000 and P250
+
+P2000 wins at 675.2779648692778
+P250 wins at 576.0091967195453
+
+
+
+Matchup between USP and USP
+
+USP wins at 699.724034999259
+USP wins at 699.724034999259
+
+
+
+Matchup between USP and P2000
+
+USP wins at 685.1402515055298
+P2000 wins at 676.7977610770496
+
+
+
+Matchup between Deagle and MP7
+
+Deagle wins at 643.4980903142074
+MP7 wins at 600.7730502410093
+
+
+
+Matchup between Tec9 and P2000
+
+Tec9 wins at 445.89530585517196
+P2000 wins at 546.5944974644356
+
+
+
+Matchup between UMP and USP
+
+UMP wins at 523.900449568766
+USP wins at 573.3459340898622
+
+
+
+Matchup between FiveSeven and AK47
+
+FiveSeven wins at 522.0388295664313
+AK47 wins at 599.8327669717058
+
+
+
+Matchup between P250 and MP7
+
+P250 wins at 514.5314099816741
+MP7 wins at 530.7246294917846
+
+
+
+Matchup between Scout and Deagle
+
+Scout wins at 1132.3588032524358
+Deagle wins at 924.6479619410499
+
+
+
+Matchup between AK47 and Scout
+
+AK47 wins at 829.4272543568019
+Scout wins at 1091.6876352542638
+
+
+
+Matchup between Deagle and FiveSeven
+
+Deagle wins at 609.1097585754262
+FiveSeven wins at 485.7996267731281
+
+
+
+Matchup between AK47 and MP7
+
+AK47 wins at 586.1538348738486
+MP7 wins at 522.1165340688209
+
+
+
+Matchup between Deagle and P250
+
+Deagle wins at 553.8477947506627
+P250 wins at 548.1068912582494
+
+
+
+Matchup between AWP and UMP
+
+AWP wins at 797.9231554630778
+UMP wins at 461.1610703142906
+
+
+
+Matchup between AK47 and Bizon
+
+AK47 wins at 553.9156355830333
+Bizon wins at 497.8032333472664
+
+
+
+Matchup between AWP and FiveSeven
+
+AWP wins at 801.7495103531427
+FiveSeven wins at 471.98919494714966
+
+
+
+Matchup between MP7 and AWP
+
+MP7 wins at 513.0760501148342
+AWP wins at 805.1176252661361
+
+
+
+Matchup between AWP and M4A4
+
+AWP wins at 902.4592198908703
+M4A4 wins at 688.6264295467357
+
+
+
+Matchup between USP and Tec9
+
+USP wins at 614.4227559691508
+Tec9 wins at 475.05085075071435
+
+
+
+Matchup between USP and P250
+
+USP wins at 675.5895748983035
+P250 wins at 569.6679726212094
+
+
+
+Matchup between Deagle and Bizon
+
+Deagle wins at 483.59409727732026
+Bizon wins at 499.4670653714585
+
+
+
+Matchup between UMP and UMP
+
+UMP wins at 522.3824796341457
+UMP wins at 522.3824796341457
+
+
+
+Matchup between MP9 and Glock
+
+MP9 wins at 428.85713406016885
+Glock wins at 501.20971630341825
+
+
+
+Matchup between MP7 and UMP
+
+MP7 wins at 526.7851104175427
+UMP wins at 463.92536218028806
+
+
+
+Matchup between AK47 and M4A4
+
+AK47 wins at 654.5547327705935
+M4A4 wins at 665.138594321631
+
+
+
+Matchup between Glock and AK47
+
+Glock wins at 481.07683054669803
+AK47 wins at 544.238802266427
+
+
+
+Matchup between AK47 and USP
+
+AK47 wins at 626.4316581071433
+USP wins at 593.507000836043
+
+
+
+Matchup between Scout and AUG
+
+Scout wins at 1327.2157118239422
+AUG wins at 1164.155997634169
+
+
+
+Matchup between Scout and M4A4
+
+Scout wins at 1069.664020116171
+M4A4 wins at 783.4011273184811
+
+
+
+Matchup between P90 and AK47
+
+P90 wins at 473.57351242702464
+AK47 wins at 548.5957776397306
+
+
+
+Matchup between P90 and FiveSeven
+
+P90 wins at 458.68993946585
+FiveSeven wins at 503.0215924890972
+
+
+
+Matchup between FiveSeven and UMP
+
+FiveSeven wins at 504.7950702566242
+UMP wins at 521.1149568495248
+
+
+
+Matchup between P250 and Tec9
+
+P250 wins at 438.02174929054246
+Tec9 wins at 408.601870621159
+
+
+
+Matchup between Glock and P250
+
+Glock wins at 518.6051300541587
+P250 wins at 533.8113097981553
+
+
+
+Matchup between FiveSeven and Glock
+
+FiveSeven wins at 501.8031598856008
+Glock wins at 506.62623398431305
+
+
+
+Matchup between FiveSeven and Gallil
+
+FiveSeven wins at 536.0363368174094
+Gallil wins at 528.2828610667383
+
+
+
+Matchup between P2000 and Bizon
+
+P2000 wins at 518.5988197828273
+Bizon wins at 586.6816512787005
+
+
+
+Matchup between Tec9 and M4A4
+
+Tec9 wins at 451.4752951569375
+M4A4 wins at 573.8342141832171
+
+
+
+Matchup between AWP and Tec9
+
+AWP wins at 914.0047596174438
+Tec9 wins at 366.67515708765154
+
+
+
+Matchup between M4A1 and Tec9
+
+M4A1 wins at 635.1254469874086
+Tec9 wins at 430.21296641527016
+
+
+
+Matchup between M4A1 and SG556
+
+M4A1 wins at 770.9744201148814
+SG556 wins at 787.9401168936843
+
+
+
+Matchup between Scout and P2000
+
+Scout wins at 1109.5283584111728
+P2000 wins at 531.3854272150028
+
+
+
+Matchup between MP9 and P250
+
+MP9 wins at 469.9924173699188
+P250 wins at 468.5422005025148
+
+
+
+Matchup between UMP and Glock
+
+UMP wins at 519.8910568711984
+Glock wins at 470.0791545883155
+
+
+
+Matchup between MP9 and UMP
+
+MP9 wins at 461.98163348848016
+UMP wins at 432.98522394613235
+
+
+
+Matchup between UMP and Mac10
+
+UMP wins at 471.31344051102354
+Mac10 wins at 425.715578315517
+
+
+
+Matchup between M4A4 and P250
+
+M4A4 wins at 604.8700318505719
+P250 wins at 494.0741410410328
+
+
+
+Matchup between SG556 and AK47
+
+SG556 wins at 783.5204076261242
+AK47 wins at 700.8257401568741
+
+
+
+Matchup between AWP and SG556
+
+AWP wins at 1130.1055569700857
+SG556 wins at 943.4674965489246
+
+
+
+Matchup between P90 and M4A1
+
+P90 wins at 464.96262983910276
+M4A1 wins at 590.074416661635
+
+
+
+Matchup between Mac10 and M4A4
+
+Mac10 wins at 436.9785237376668
+M4A4 wins at 544.1629760050453
+
+
+
+Matchup between SG556 and M4A4
+
+SG556 wins at 774.6962548172545
+M4A4 wins at 776.3034972576623
+
+
+
+Matchup between P90 and M4A4
+
+P90 wins at 483.4449437613261
+M4A4 wins at 581.1111456419823
+
+
+
+Matchup between SG556 and Tec9
+
+SG556 wins at 420.70415451908366
+Tec9 wins at 254.05921977002436
+
+
+
+Matchup between AWP and P250
+
+AWP wins at 860.6637644346074
+P250 wins at 513.3414904384292
+
+
+
+Matchup between XM1014 and AWP
+
+XM1014 wins at 399.1286333480379
+AWP wins at 723.503649269034
+
+
+
+Matchup between UMP and XM1014
+
+UMP wins at 466.7262261803077
+XM1014 wins at 307.74097178151686
+
+
+
+Matchup between USP and Deagle
+
+USP wins at 701.2781329758571
+Deagle wins at 644.2901999181188
+
+
+
+Matchup between P250 and P90
+
+P250 wins at 459.23003778153287
+P90 wins at 465.61987453067616
+
+
+
+Matchup between AK47 and Famas
+
+AK47 wins at 662.7972170020662
+Famas wins at 646.009960117351
+
+
+
+Matchup between AWP and MP9
+
+AWP wins at 728.5517306927716
+MP9 wins at 480.65328879929564
+
+
+
+Matchup between SG556 and Famas
+
+SG556 wins at 811.7323405941877
+Famas wins at 719.1915170245699
+
+
+
+Matchup between SG556 and P90
+
+SG556 wins at 661.1470324955593
+P90 wins at 562.1550732796613
+
+
+
+Matchup between Deagle and P2000
+
+Deagle wins at 632.1810359171598
+P2000 wins at 648.9806151332626
+
+
+
+Matchup between Mac10 and USP
+
+Mac10 wins at 472.69985122320765
+USP wins at 603.0611063287013
+
+
+
+Matchup between Tec9 and FiveSeven
+
+Tec9 wins at 507.106297476542
+FiveSeven wins at 453.31724052765765
+
+
+
+Matchup between Mac10 and P250
+
+Mac10 wins at 430.9034423817316
+P250 wins at 486.72852686240026
+
+
+
+Matchup between FiveSeven and P2000
+
+FiveSeven wins at 425.77797790484124
+P2000 wins at 569.0121393674551
+
+
+
+Matchup between Nova and MP7
+
+Nova wins at 332.69397707213676
+MP7 wins at 363.53152972185745
+
+
+
+Matchup between Mac10 and AK47
+
+Mac10 wins at 418.7036796687415
+AK47 wins at 544.4765980965624
+
+
+
+Matchup between P2000 and AK47
+
+P2000 wins at 540.2626511694298
+AK47 wins at 592.8302566201489
+
+
+
+Matchup between Nova and DualBarettas
+
+Nova wins at 419.5626319142794
+DualBarettas wins at 259.756715669011
+
+
+
+Matchup between AWP and P90
+
+AWP wins at 763.6471922283613
+P90 wins at 490.3674197307608
+
+
+
+Matchup between G3SG1 and MP7
+
+G3SG1 wins at 1064.2563630392658
+MP7 wins at 850.0391870496155
+
+
+
+Matchup between M4A1 and G3SG1
+
+M4A1 wins at 668.57829884021
+G3SG1 wins at 794.3391709067707
+
+
+
+Matchup between Scout and FiveSeven
+
+Scout wins at 1029.4581843565306
+FiveSeven wins at 580.0758567970881
+
+
+
+Matchup between M4A1 and Scout
+
+M4A1 wins at 868.6369276405128
+Scout wins at 1102.289427612135
+
+
+
+Matchup between P90 and Deagle
+
+P90 wins at 531.6709763679204
+Deagle wins at 549.0997725303993
+
+
+
+Matchup between M4A1 and Bizon
+
+M4A1 wins at 552.5490364287475
+Bizon wins at 463.41063325037794
+
+
+
+Matchup between Nova and M4A1
+
+Nova wins at 473.5634527594044
+M4A1 wins at 568.7555831144327
+
+
+
+Matchup between Famas and Glock
+
+Famas wins at 632.2261864703318
+Glock wins at 505.82680307143795
+
+
+
+Matchup between Nova and MP9
+
+Nova wins at 378.5304770735953
+MP9 wins at 386.4897910135083
+
+
+
+Matchup between Nova and Famas
+
+Nova wins at 427.8173239853526
+Famas wins at 561.7425116051442
+
+
+
+Matchup between AWP and USP
+
+AWP wins at 845.8643409917071
+USP wins at 546.0762260488968
+
+
+
+Matchup between AK47 and Swag7
+
+AK47 wins at 486.37302115654325
+Swag7 wins at 320.46136119608155
+
+
+
+Matchup between G3SG1 and AK47
+
+G3SG1 wins at 1019.5420077470559
+AK47 wins at 456.0616696665754
+
+
+
+Matchup between Scout and UMP
+
+Scout wins at 1001.1757566733603
+UMP wins at 626.2588268668936
+
+
+
+Matchup between CZ and Deagle
+
+CZ wins at 475.75710827761884
+Deagle wins at 538.4914260488744
+
+
+
+Matchup between MP7 and CZ
+
+MP7 wins at 463.0324497884385
+CZ wins at 480.5330107025479
+
+
+
+Matchup between XM1014 and P90
+
+XM1014 wins at 349.96035422167137
+P90 wins at 450.9484546856656
+
+
+
+Matchup between M4A4 and Gallil
+
+M4A4 wins at 666.9623811250573
+Gallil wins at 628.624171851578
+
+
+
+Matchup between M4A1 and M4A4
+
+M4A1 wins at 660.6150981657772
+M4A4 wins at 643.9026680748553
+
+
+
+Matchup between XM1014 and M4A1
+
+XM1014 wins at 391.0100564632773
+M4A1 wins at 485.4702370575218
+
+
+
+Matchup between M4A4 and UMP
+
+M4A4 wins at 616.6853587937918
+UMP wins at 478.7443153950155
+
+
+
+Matchup between Scout and USP
+
+Scout wins at 1130.1812823900145
+USP wins at 696.800469123296
+
+
+
+Matchup between XM1014 and Scout
+
+XM1014 wins at 423.5678265663967
+Scout wins at 694.4161264473763
+
+
+
+Matchup between M4A4 and Deagle
+
+M4A4 wins at 687.3014813304839
+Deagle wins at 637.4999645143091
+
+
+
+Matchup between Scar20 and M4A1
+
+Scar20 wins at 702.0943482924292
+M4A1 wins at 769.4420672516707
+
+
+
+Matchup between USP and Scar20
+
+USP wins at 430.5926148925455
+Scar20 wins at 1410.0695018331544
+
+
+
+Matchup between P90 and USP
+
+P90 wins at 477.6494464164153
+USP wins at 506.4184007002186
+
+
+
+Matchup between FiveSeven and Scar20
+
+FiveSeven wins at 605.3664293859811
+Scar20 wins at 505.8903043150758
+
+
+
+Matchup between Deagle and Scar20
+
+Deagle wins at 1097.3350112280134
+Scar20 wins at 1191.5102970024368
+
+
+
+Matchup between Bizon and UMP
+
+Bizon wins at 450.58601492171476
+UMP wins at 451.19672045868833
+
+
+
+Matchup between XM1014 and AK47
+
+XM1014 wins at 414.34467005316446
+AK47 wins at 506.5686256597685
+
+
+
+Matchup between Tec9 and XM1014
+
+Tec9 wins at 340.38873134851326
+XM1014 wins at 299.32424499452054
+
+
+
+Matchup between MP7 and Famas
+
+MP7 wins at 562.6851008719152
+Famas wins at 572.6028411235719
+
+
+
+Matchup between M4A4 and MP7
+
+M4A4 wins at 578.1819301001135
+MP7 wins at 514.4459300219155
+
+
+
+Matchup between M249 and Tec9
+
+M249 wins at 408.0302094251842
+Tec9 wins at UNKNOWN
+
+
+
+Matchup between Glock and P90
+
+Glock wins at 435.2614334937969
+P90 wins at 451.6712326448881
+
+
+
+Matchup between Scout and Scout
+
+Scout wins at 1621.495522742136
+Scout wins at 1621.495522742136
+
+
+
+Matchup between Deagle and Glock
+
+Deagle wins at 600.3584562761597
+Glock wins at 568.1866201699931
+
+
+
+Matchup between AWP and AUG
+
+AWP wins at 1093.2299323650013
+AUG wins at 841.7463240435123
+
+
+
+Matchup between Tec9 and DualBarettas
+
+Tec9 wins at 652.2885471943606
+DualBarettas wins at 469.5692460478819
+
+
+
+Matchup between P250 and Scout
+
+P250 wins at 594.3711965191968
+Scout wins at 909.5086947562421
+
+
+
+Matchup between XM1014 and P250
+
+XM1014 wins at 333.5096975849821
+P250 wins at 459.3501502515696
+
+
+
+Matchup between FiveSeven and M4A4
+
+FiveSeven wins at 420.56790658702306
+M4A4 wins at 600.3387713849062
+
+
+
+Matchup between Bizon and FiveSeven
+
+Bizon wins at 508.8366668265058
+FiveSeven wins at 467.3854162526774
+
+
+
+Matchup between SG556 and UMP
+
+SG556 wins at 712.5274215138271
+UMP wins at 597.6591860949696
+
+
+
+Matchup between M4A4 and M4A4
+
+M4A4 wins at 635.7528405133767
+M4A4 wins at 635.7528405133767
+
+
+
+Matchup between M4A4 and USP
+
+M4A4 wins at 661.5042481961091
+USP wins at 479.9547439557566
+
+
+
+Matchup between Famas and M4A4
+
+Famas wins at 544.8697593904773
+M4A4 wins at 590.7552862130347
+
+
+
+Matchup between AWP and Famas
+
+AWP wins at 909.7672975883467
+Famas wins at 645.6625735598726
+
+
+
+Matchup between P2000 and P2000
+
+P2000 wins at 603.6308510654212
+P2000 wins at 603.6308510654212
+
+
+
+Matchup between MP7 and P2000
+
+MP7 wins at 551.027942873896
+P2000 wins at 398.9095416002668
+
+
+
+Matchup between M4A1 and M4A1
+
+M4A1 wins at 669.6411923529853
+M4A1 wins at 669.6411923529853
+
+
+
+Matchup between CZ and AWP
+
+CZ wins at 558.1360353869775
+AWP wins at 835.9633476545243
+
+
+
+Matchup between AK47 and CZ
+
+AK47 wins at 559.76782943437
+CZ wins at 451.1827606297421
+
+
+
+Matchup between MP9 and AK47
+
+MP9 wins at 489.75341782167527
+AK47 wins at 555.945729477257
+
+
+
+Matchup between Scout and CZ
+
+Scout wins at 817.9864282662099
+CZ wins at 596.7764089748218
+
+
+
+Matchup between Mac10 and P2000
+
+Mac10 wins at 458.0381214780145
+P2000 wins at 356.43776354530434
+
+
+
+Matchup between AWP and Mac10
+
+AWP wins at 838.2789330293773
+Mac10 wins at 404.51840677833343
+
+
+
+Matchup between P90 and Gallil
+
+P90 wins at 592.8371818439937
+Gallil wins at 600.1831769664869
+
+
+
+Matchup between Gallil and UMP
+
+Gallil wins at 595.9694380596924
+UMP wins at 507.6421840795428
+
+
+
+Matchup between Tec9 and Gallil
+
+Tec9 wins at 478.8779192638761
+Gallil wins at 559.6948204976782
+
+
+
+Matchup between P90 and P90
+
+P90 wins at 421.22196050490703
+P90 wins at 421.22196050490703
+
+
+
+Matchup between MP7 and Tec9
+
+MP7 wins at 540.7940732654405
+Tec9 wins at 470.52763834018384
+
+
+
+Matchup between P90 and Tec9
+
+P90 wins at 417.5776899627745
+Tec9 wins at 374.8323367862118
+
+
+
+Matchup between Famas and P90
+
+Famas wins at 490.94024533446975
+P90 wins at 441.729517425095
+
+
+
+Matchup between P90 and UMP
+
+P90 wins at 455.3858551568698
+UMP wins at 437.33467396459946
+
+
+
+Matchup between Scout and Gallil
+
+Scout wins at 1159.031361869405
+Gallil wins at 696.8669216243139
+
+
+
+Matchup between MP7 and P90
+
+MP7 wins at 493.5593986320434
+P90 wins at 504.41539206807795
+
+
+
+Matchup between P90 and Bizon
+
+P90 wins at 547.050634121823
+Bizon wins at 439.00945570299695
+
+
+
+Matchup between Deagle and Gallil
+
+Deagle wins at 696.0011466287162
+Gallil wins at 704.4787664847252
+
+
+
+Matchup between MP7 and Glock
+
+MP7 wins at 517.6198984986485
+Glock wins at 542.0641823635491
+
+
+
+Matchup between M4A4 and Glock
+
+M4A4 wins at 568.3622273901783
+Glock wins at 493.4035165555746
+
+
+
+Matchup between FiveSeven and P250
+
+FiveSeven wins at 459.73395494740777
+P250 wins at 457.5650462519708
+
+
+
+Matchup between AWP and Glock
+
+AWP wins at 933.312590206282
+Glock wins at 414.93807084910554
+
+
+
+Matchup between Famas and Gallil
+
+Famas wins at 620.3027838086971
+Gallil wins at 688.4544138805503
+
+
+
+Matchup between Tec9 and Swag7
+
+Tec9 wins at 322.52017248904264
+Swag7 wins at 239.07764616226197
+
+
+
+Matchup between Deagle and G3SG1
+
+Deagle wins at 671.1686596017881
+G3SG1 wins at 1142.4525335910703
+
+
+
+Matchup between Famas and Tec9
+
+Famas wins at 575.1659926802604
+Tec9 wins at 402.74811076238495
+
+
+
+Matchup between P90 and CZ
+
+P90 wins at 377.8191689551706
+CZ wins at 449.5576592733804
+
+
+
+Matchup between CZ and UMP
+
+CZ wins at 492.6258038155911
+UMP wins at 473.40929216080445
+
+
+
+Matchup between Scout and Famas
+
+Scout wins at 957.161537201259
+Famas wins at 753.8317893755817
+
+
+
+Matchup between P90 and Swag7
+
+P90 wins at 347.8005797325781
+Swag7 wins at 271.46091898438317
+
+
+
+Matchup between Tec9 and Tec9
+
+Tec9 wins at 332.2163011642619
+Tec9 wins at 332.2163011642619
+
+
+
+Matchup between AWP and Bizon
+
+AWP wins at 813.3002731615311
+Bizon wins at 525.6969660195116
+
+
+
+Matchup between AWP and Nova
+
+AWP wins at 732.3930221108002
+Nova wins at 352.4615094422978
+
+
+
+Matchup between Deagle and Swag7
+
+Deagle wins at 457.91577250171935
+Swag7 wins at 338.58833725486824
+
+
+
+Matchup between G3SG1 and M4A4
+
+G3SG1 wins at 942.4431837828415
+M4A4 wins at 823.0025524463281
+
+
+
+Matchup between AWP and G3SG1
+
+AWP wins at 1241.1779153044292
+G3SG1 wins at 1429.9102553871835
+
+
+
+Matchup between FiveSeven and G3SG1
+
+FiveSeven wins at 798.9257696487666
+G3SG1 wins at 803.2702160004505
+
+
+
+Matchup between Nova and M4A4
+
+Nova wins at 531.481127104534
+M4A4 wins at 519.2913839098123
+
+
+
+Matchup between Glock and G3SG1
+
+Glock wins at 516.8287917676414
+G3SG1 wins at UNKNOWN
+
+
+
+Matchup between CZ and Mac10
+
+CZ wins at 449.2789907713669
+Mac10 wins at 415.248034509954
+
+
+
+Matchup between Glock and Swag7
+
+Glock wins at 501.5189874917611
+Swag7 wins at 359.0031722237665
+
+
+
+Matchup between M4A1 and Glock
+
+M4A1 wins at 590.915546647293
+Glock wins at 498.35029487416637
+
+
+
+Matchup between M4A1 and Mac10
+
+M4A1 wins at 608.3134366875498
+Mac10 wins at 467.43597032664695
+
+
+
+Matchup between Gallil and M4A1
+
+Gallil wins at 571.5917452162093
+M4A1 wins at 687.6282532831286
+
+
+
+Matchup between Gallil and P250
+
+Gallil wins at 585.0755879252748
+P250 wins at 512.6028995728191
+
+
+
+Matchup between AK47 and SawedOff
+
+AK47 wins at 489.2288566600495
+SawedOff wins at 262.60371127202086
+
+
+
+Matchup between P250 and P250
+
+P250 wins at 469.1875486114346
+P250 wins at 469.1875486114346
+
+
+
+Matchup between UMP and Swag7
+
+UMP wins at 456.4957310962656
+Swag7 wins at 387.0484244104926
+
+
+
+Matchup between MP7 and Swag7
+
+MP7 wins at 351.93454180378893
+Swag7 wins at 305.05675299801067
+
+
+
+Matchup between Glock and Scout
+
+Glock wins at 654.6504325826719
+Scout wins at 919.4115280897951
+
+
+
+Matchup between USP and MP7
+
+USP wins at 594.4557917883117
+MP7 wins at 583.377775146424
+
+
+
+Matchup between USP and Bizon
+
+USP wins at 590.4063471483043
+Bizon wins at 548.6211212460257
+
+
+
+Matchup between SG556 and MP7
+
+SG556 wins at 703.8497731768077
+MP7 wins at 630.8555460820568
+
+
+
+Matchup between Gallil and AK47
+
+Gallil wins at 598.9390687950739
+AK47 wins at 636.2683516593123
+
+
+
+Matchup between AK47 and Scar20
+
+AK47 wins at 816.4322260940165
+Scar20 wins at 1038.9499707016662
+
+
+
+Matchup between AK47 and AUG
+
+AK47 wins at 775.9449280403137
+AUG wins at 857.6416437133445
+
+
+
+Matchup between AWP and Swag7
+
+AWP wins at 711.3393922929364
+Swag7 wins at 300.7020894961892
+
+
+
+Matchup between Scar20 and M4A4
+
+Scar20 wins at 962.244288904138
+M4A4 wins at 470.67765412894175
+
+
+
+Matchup between Mac10 and MP9
+
+Mac10 wins at 402.0798552023884
+MP9 wins at 451.91091964863756
+
+
+
+Matchup between M4A4 and MP9
+
+M4A4 wins at 657.081127455968
+MP9 wins at 426.8881029405788
+
+
+
+Matchup between M4A4 and XM1014
+
+M4A4 wins at 587.7201963494796
+XM1014 wins at 380.39906659012655
+
+
+
+Matchup between Nova and AK47
+
+Nova wins at 373.20512773462997
+AK47 wins at 504.6266143967152
+
+
+
+Matchup between USP and CZ
+
+USP wins at 557.5998200313174
+CZ wins at 543.2481808867409
+
+
+
+Matchup between UMP and P2000
+
+UMP wins at 567.7763860222974
+P2000 wins at 503.5796447743803
+
+
+
+Matchup between SawedOff and AWP
+
+SawedOff wins at 357.59366566486403
+AWP wins at 826.9491543917513
+
+
+
+Matchup between Deagle and Mac10
+
+Deagle wins at 612.2128512864417
+Mac10 wins at 515.0063433481403
+
+
+
+Matchup between CZ and M4A1
+
+CZ wins at 465.284951646226
+M4A1 wins at 575.9763765970642
+
+
+
+Matchup between XM1014 and FiveSeven
+
+XM1014 wins at 378.8865643839032
+FiveSeven wins at 453.23295633037213
+
+
+
+Matchup between Famas and M4A1
+
+Famas wins at 729.3632593160185
+M4A1 wins at 745.8776028812183
+
+
+
+Matchup between Mac10 and FiveSeven
+
+Mac10 wins at 489.23449491959127
+FiveSeven wins at 485.9213437698249
+
+
+
+Matchup between Famas and FiveSeven
+
+Famas wins at 483.79549108884976
+FiveSeven wins at 497.6338884324073
+
+
+
+Matchup between M4A4 and CZ
+
+M4A4 wins at 589.0054190248949
+CZ wins at 475.07589777001556
+
+
+
+Matchup between FiveSeven and FiveSeven
+
+FiveSeven wins at 401.26150891515425
+FiveSeven wins at 401.26150891515425
+
+
+
+Matchup between M4A1 and USP
+
+M4A1 wins at 641.7634661465613
+USP wins at 533.3369031073514
+
+
+
+Matchup between M4A4 and Bizon
+
+M4A4 wins at 568.5548285176311
+Bizon wins at 409.07448225694446
+
+
+
+Matchup between USP and SG556
+
+USP wins at 646.5241125341614
+SG556 wins at 749.0328921944401
+
+
+
+Matchup between P2000 and SG556
+
+P2000 wins at 575.4694383725005
+SG556 wins at 837.3488494803919
+
+
+
+Matchup between P2000 and P90
+
+P2000 wins at 494.89869003043225
+P90 wins at 432.80922544418524
+
+
+
+Matchup between MP9 and P90
+
+MP9 wins at 418.0733965719044
+P90 wins at 488.8966871635479
+
+
+
+Matchup between P250 and Nova
+
+P250 wins at 438.9776667434954
+Nova wins at 416.80714845365304
+
+
+
+Matchup between Tec9 and Scar20
+
+Tec9 wins at 405.3162246618274
+Scar20 wins at 739.4627104081067
+
+
+
+Matchup between AWP and Scar20
+
+AWP wins at 1307.2845592413305
+Scar20 wins at 1008.8254576072719
+
+
+
+Matchup between MP7 and AUG
+
+MP7 wins at 712.3875323619868
+AUG wins at 592.615935915618
+
+
+
+Matchup between M4A4 and AUG
+
+M4A4 wins at 784.4747070183539
+AUG wins at 880.6909214930879
+
+
+
+Matchup between AWP and Gallil
+
+AWP wins at 955.3067465597079
+Gallil wins at 672.2552983996912
+
+
+
+Matchup between Gallil and MP7
+
+Gallil wins at 465.9766607001432
+MP7 wins at 518.1196109907537
+
+
+
+Matchup between UMP and AUG
+
+UMP wins at 532.6535037049777
+AUG wins at 715.339841454021
+
+
+
+Matchup between Deagle and AUG
+
+Deagle wins at 718.5302242904191
+AUG wins at 837.3801430623531
+
+
+
+Matchup between Mac10 and Famas
+
+Mac10 wins at 422.2875532849818
+Famas wins at 521.0493256914428
+
+
+
+Matchup between DualBarettas and M4A4
+
+DualBarettas wins at 525.0193430524736
+M4A4 wins at 548.1975037676983
+
+
+
+Matchup between MP7 and MP7
+
+MP7 wins at 448.2943165133194
+MP7 wins at 448.2943165133194
+
+
+
+Matchup between P90 and Mac10
+
+P90 wins at 424.01259536338614
+Mac10 wins at 381.2395625415976
+
+
+
+Matchup between MP7 and Mac10
+
+MP7 wins at 504.4900331595329
+Mac10 wins at 384.0243689975835
+
+
+
+Matchup between Gallil and USP
+
+Gallil wins at 619.5934243928511
+USP wins at 648.3646945955948
+
+
+
+Matchup between Bizon and P250
+
+Bizon wins at 463.6117063324255
+P250 wins at 472.28530968853556
+
+
+
+Matchup between M249 and AWP
+
+M249 wins at 1018.3656862532699
+AWP wins at 1266.0917299475009
+
+
+
+Matchup between AK47 and M249
+
+AK47 wins at 832.9566220535444
+M249 wins at 610.3869272327503
+
+
+
+Matchup between Scar20 and Gallil
+
+Scar20 wins at 1031.191305590386
+Gallil wins at 901.1902282707252
+
+
+
+Matchup between AK47 and Negev
+
+AK47 wins at 693.4695133193289
+Negev wins at 760.6154226587446
+
+
+
+Matchup between Tec9 and Glock
+
+Tec9 wins at 467.95732655259627
+Glock wins at 421.7533591028603
+
+
+
+Matchup between AWP and P2000
+
+AWP wins at 876.9748918638818
+P2000 wins at 456.53308829349675
+
+
+
+Matchup between P250 and AUG
+
+P250 wins at 544.4231018718982
+AUG wins at 726.1411572690309
+
+
+
+Matchup between SG556 and Deagle
+
+SG556 wins at 815.2069558674043
+Deagle wins at 805.5665105449909
+
+
+
+Matchup between FiveSeven and USP
+
+FiveSeven wins at 581.300121165727
+USP wins at 654.540435409844
+
+
+
+Matchup between Scout and P90
+
+Scout wins at 842.7881402281674
+P90 wins at 606.1005086857256
+
+
+
+Matchup between USP and DualBarettas
+
+USP wins at 651.8853415702976
+DualBarettas wins at 478.34668825694115
+
+
+
+Matchup between UMP and Negev
+
+UMP wins at 702.6738481024901
+Negev wins at 693.1103028836
+
+
+
+Matchup between Negev and AWP
+
+Negev wins at 782.2337676975432
+AWP wins at 1083.3298571849793
+
+
+
+Matchup between SawedOff and M4A4
+
+SawedOff wins at 266.4456720742788
+M4A4 wins at 500.2018199906019
+
+
+
+Matchup between Gallil and Swag7
+
+Gallil wins at 371.9584594780733
+Swag7 wins at 215.65758359779264
+
+
+
+Matchup between SG556 and Nova
+
+SG556 wins at 584.3424910480384
+Nova wins at 473.54620375061523
+
+
+
+Matchup between SG556 and XM1014
+
+SG556 wins at 564.6157056298557
+XM1014 wins at 454.9443752552925
+
+
+
+Matchup between Mac10 and AUG
+
+Mac10 wins at 523.9617533769064
+AUG wins at 811.9545030860969
+
+
+
+Matchup between Swag7 and M4A4
+
+Swag7 wins at 483.7365071237381
+M4A4 wins at 601.2605174334386
+
+
+
+Matchup between Swag7 and USP
+
+Swag7 wins at 199.48252724789873
+USP wins at 546.6036826907233
+
+
+
+Matchup between Famas and CZ
+
+Famas wins at 563.5911573401584
+CZ wins at 506.2496344318116
+
+
+
+Matchup between Gallil and CZ
+
+Gallil wins at 488.2096053540341
+CZ wins at 494.4469384403684
+
+
+
+Matchup between DualBarettas and FiveSeven
+
+DualBarettas wins at 569.1401307703458
+FiveSeven wins at 481.5977711134453
+
+
+
+Matchup between MP7 and Bizon
+
+MP7 wins at 573.4013618545188
+Bizon wins at 330.8794814213563
+
+
+
+Matchup between Glock and Bizon
+
+Glock wins at 480.2336441562703
+Bizon wins at 433.93615802228203
+
+
+
+Matchup between Nova and USP
+
+Nova wins at 361.4244253625983
+USP wins at 479.3807539735134
+
+
+
+Matchup between FiveSeven and M4A1
+
+FiveSeven wins at 528.4409951138348
+M4A1 wins at 619.866622857229
+
+
+
+Matchup between SG556 and AUG
+
+SG556 wins at 920.307579398413
+AUG wins at 893.7963748296199
+
+
+
+Matchup between AUG and Famas
+
+AUG wins at 978.3652569884085
+Famas wins at 597.5432870101442
+
+
+
+Matchup between AUG and P90
+
+AUG wins at 684.3672708938208
+P90 wins at 717.3875896024541
+
+
+
+Matchup between XM1014 and USP
+
+XM1014 wins at 450.85043558739375
+USP wins at 578.9199049279572
+
+
+
+Matchup between M4A4 and M249
+
+M4A4 wins at 682.2840386011509
+M249 wins at 350.55049522469443
+
+
+
+Matchup between M4A1 and M249
+
+M4A1 wins at 379.3840414181475
+M249 wins at 704.1166105783163
+
+
+
+Matchup between Negev and Famas
+
+Negev wins at 357.14808098414386
+Famas wins at 497.99313993290696
+
+
+
+Matchup between G3SG1 and P90
+
+G3SG1 wins at 729.0749437047665
+P90 wins at 556.7816898289724
+
+
+
+Matchup between Gallil and P2000
+
+Gallil wins at 649.4750320013036
+P2000 wins at 761.5219032490357
+
+
+
+Matchup between Negev and SG556
+
+Negev wins at 699.6734406199009
+SG556 wins at 674.6212242895284
+
+
+
+Matchup between M4A4 and Negev
+
+M4A4 wins at 682.8378775617032
+Negev wins at 727.9561183697699
+
+
+
+Matchup between CZ and XM1014
+
+CZ wins at 354.399319223662
+XM1014 wins at 240.9482844723265
+
+
+
+Matchup between Famas and Famas
+
+Famas wins at 531.7520779155798
+Famas wins at 531.7520779155798
+
+
+
+Matchup between CZ and P250
+
+CZ wins at 374.22818238105486
+P250 wins at 442.0135738345323
+
+
+
+Matchup between Bizon and Mac10
+
+Bizon wins at 299.3119867474004
+Mac10 wins at 546.5859363244516
+
+
+
+Matchup between XM1014 and Deagle
+
+XM1014 wins at 469.9552016762851
+Deagle wins at 432.328998823226
+
+
+
+Matchup between XM1014 and M249
+
+XM1014 wins at 424.6751699828941
+M249 wins at 114.12712210513327
+
+
+
+Matchup between Glock and XM1014
+
+Glock wins at 472.6182039659527
+XM1014 wins at 332.72730042819666
+
+
+
+Matchup between FiveSeven and SG556
+
+FiveSeven wins at 535.7096578943784
+SG556 wins at 629.6856178471108
+
+
+
+Matchup between AUG and Glock
+
+AUG wins at 724.0863284382109
+Glock wins at 492.57728192583374
+
+
+
+Matchup between AUG and M4A1
+
+AUG wins at 843.3608467616722
+M4A1 wins at 657.0108992773543
+
+
+
+Matchup between FiveSeven and Nova
+
+FiveSeven wins at 460.4226339388516
+Nova wins at 479.50978358784414
+
+
+
+Matchup between Famas and Bizon
+
+Famas wins at 650.4084513198804
+Bizon wins at 392.49497188673274
+
+
+
+Matchup between P250 and SG556
+
+P250 wins at 464.4472032304652
+SG556 wins at 736.7285063459748
+
+
+
+Matchup between SG556 and Bizon
+
+SG556 wins at 665.982572785605
+Bizon wins at 195.0712076851529
+
+
+
+Matchup between Gallil and Bizon
+
+Gallil wins at 440.7981686542028
+Bizon wins at 364.4173413216009
+
+
+
+Matchup between MP9 and USP
+
+MP9 wins at 417.5204768204784
+USP wins at 440.7394281961376
+
+
+
+Matchup between Gallil and XM1014
+
+Gallil wins at 504.39856941485453
+XM1014 wins at 383.9298250820562
+
+
+
+Matchup between Scout and Nova
+
+Scout wins at 844.3451945593995
+Nova wins at 383.0679655747813
+
+
+
+Matchup between P90 and DualBarettas
+
+P90 wins at 594.5552771925462
+DualBarettas wins at 458.0841126286899
+
+
+
+Matchup between AK47 and DualBarettas
+
+AK47 wins at 486.3528593422258
+DualBarettas wins at 441.23006692035756
+
+
+
+Matchup between Mac10 and SG556
+
+Mac10 wins at 311.4726823715824
+SG556 wins at 829.8745983772573
+
+
+
+Matchup between M4A1 and DualBarettas
+
+M4A1 wins at 485.22810649002986
+DualBarettas wins at 473.05053326491947
+
+
+
+Matchup between P90 and Scar20
+
+P90 wins at 553.9988074529846
+Scar20 wins at 780.6271471733191
+
+
+
+Matchup between MP7 and DualBarettas
+
+MP7 wins at 677.6463447194265
+DualBarettas wins at 292.4112686636334
+
+
+
+Matchup between P250 and Negev
+
+P250 wins at 401.3809731328623
+Negev wins at 653.6909876260893
+
+
+
+Matchup between AUG and Gallil
+
+AUG wins at 840.344713695329
+Gallil wins at 708.0290092681754
+
+
+
+Matchup between DualBarettas and Glock
+
+DualBarettas wins at 522.7214886559857
+Glock wins at 475.73205640245436
+
+
+
+Matchup between Scout and MP7
+
+Scout wins at 949.3534471646116
+MP7 wins at 654.6989919032748
+
+
+
+Matchup between Nova and UMP
+
+Nova wins at 330.20337555452085
+UMP wins at 428.9004622599078
+
+
+
+Matchup between P90 and SawedOff
+
+P90 wins at 322.00465538439107
+SawedOff wins at 248.86120779149616
+
+
+
+Matchup between DualBarettas and AWP
+
+DualBarettas wins at 394.84041978060486
+AWP wins at 806.3412408331955
+
+
+
+Matchup between MP9 and CZ
+
+MP9 wins at 464.78762779315474
+CZ wins at 440.54508163961333
+
+
+
+Matchup between Mac10 and Scout
+
+Mac10 wins at 509.59465348379376
+Scout wins at 748.864561073199
+
+
+
+Matchup between Gallil and MP9
+
+Gallil wins at 463.8765406963011
+MP9 wins at 511.08946165173904
+
+
+
+Matchup between Glock and CZ
+
+Glock wins at 465.59052451375766
+CZ wins at 416.4987407870609
+
+
+
+Matchup between Mac10 and Gallil
+
+Mac10 wins at 498.97298908725384
+Gallil wins at 507.6788542857746
+
+
+
+Matchup between Gallil and Gallil
+
+Gallil wins at 612.200430607107
+Gallil wins at 612.200430607107
+
+
+
+Matchup between SawedOff and M4A1
+
+SawedOff wins at 234.08494683696514
+M4A1 wins at 385.17941756532144
+
+
+
+Matchup between XM1014 and MP7
+
+XM1014 wins at 423.16241083674663
+MP7 wins at 448.1155318989042
+
+
+
+Matchup between Bizon and Tec9
+
+Bizon wins at 504.6337977758428
+Tec9 wins at 326.38533701038705
+
+
+
+Matchup between AUG and AUG
+
+AUG wins at 1088.840234659073
+AUG wins at 1088.840234659073
+
+
+
+Matchup between AUG and USP
+
+AUG wins at 915.2336999171235
+USP wins at 971.5059579217809
+
+
+
+Matchup between SG556 and Gallil
+
+SG556 wins at 618.8302283771383
+Gallil wins at 501.9462626991203
+
+
+
+Matchup between SG556 and SG556
+
+SG556 wins at 933.68803704833
+SG556 wins at 933.68803704833
+
+
+
+Matchup between MP9 and MP7
+
+MP9 wins at 442.0279822358296
+MP7 wins at 436.7737304469391
+
+
+
+Matchup between Glock and Gallil
+
+Glock wins at 516.1788235362317
+Gallil wins at 660.0290828120131
+
+
+
+Matchup between M4A1 and Swag7
+
+M4A1 wins at 590.1346153457698
+Swag7 wins at 263.7217186008265
+
+
+
+Matchup between P250 and DualBarettas
+
+P250 wins at 377.764438591736
+DualBarettas wins at 457.81432703432944
+
+
+
+Matchup between SG556 and Scout
+
+SG556 wins at 1438.0321173590235
+Scout wins at 1413.9439381827854
+
+
+
+Matchup between Nova and Tec9
+
+Nova wins at 363.54310066835063
+Tec9 wins at 532.4801711732814
+
+
+
+Matchup between XM1014 and AUG
+
+XM1014 wins at 525.3027581161521
+AUG wins at 764.3151014990649
+
+
+
+Matchup between FiveSeven and CZ
+
+FiveSeven wins at 443.65399572412974
+CZ wins at 524.6256951822417
+
+
+
+Matchup between Scout and Scar20
+
+Scout wins at 1603.8787017667237
+Scar20 wins at 1293.404829397993
+
+
+
+Matchup between Nova and P90
+
+Nova wins at 547.3745692474666
+P90 wins at 354.8366356116605
+
+
+
+Matchup between DualBarettas and Deagle
+
+DualBarettas wins at 442.61499462792244
+Deagle wins at 456.2784953245421
+
+
+
+Matchup between M4A1 and Negev
+
+M4A1 wins at 568.4151175390657
+Negev wins at 462.3844016472837
+
+
+
+Matchup between Nova and Gallil
+
+Nova wins at 377.81207139941273
+Gallil wins at 264.71380083242826
+
+
+
+Matchup between Famas and SawedOff
+
+Famas wins at 266.8969907337239
+SawedOff wins at 190.25700348770002
+
+
+
+Matchup between G3SG1 and P250
+
+G3SG1 wins at 974.7646762855842
+P250 wins at 215.5203006679417
+
+
+
+Matchup between AUG and Tec9
+
+AUG wins at 847.4547383609278
+Tec9 wins at 522.5582795022508
+
+
+
+Matchup between Scar20 and Negev
+
+Scar20 wins at 1042.9036308597788
+Negev wins at 679.6145966649038
+
+
+
+Matchup between G3SG1 and Scar20
+
+G3SG1 wins at 1191.9809434718225
+Scar20 wins at 1749.3937853646453
+
+
+
+Matchup between Mac10 and Mac10
+
+Mac10 wins at 382.0017664734333
+Mac10 wins at 382.0017664734333
+
+
+
+Matchup between Scar20 and CZ
+
+Scar20 wins at 795.1380931616219
+CZ wins at 810.429676153164
+
+
+
+Matchup between Scar20 and P250
+
+Scar20 wins at 1110.161398141505
+P250 wins at 514.7239574114599
+
+
+
+Matchup between CZ and Tec9
+
+CZ wins at 433.08420004581905
+Tec9 wins at 466.00598753217645
+
+
+
+Matchup between CZ and Bizon
+
+CZ wins at 412.2642108017379
+Bizon wins at 498.661503733326
+
+
+
+Matchup between Deagle and Negev
+
+Deagle wins at 635.2838572813006
+Negev wins at 668.3279591793581
+
+
+
+Matchup between Negev and XM1014
+
+Negev wins at 714.6699995582513
+XM1014 wins at 444.72339619619936
+
+
+
+Matchup between SG556 and MP9
+
+SG556 wins at 487.0537527287498
+MP9 wins at 463.3027535399058
+
+
+
+Matchup between CZ and G3SG1
+
+CZ wins at 269.0876546311279
+G3SG1 wins at 1210.4366980557058
+
+
+
+Matchup between MP9 and MP9
+
+MP9 wins at 503.82836809961725
+MP9 wins at 503.82836809961725
+
+
+
+Matchup between Swag7 and XM1014
+
+Swag7 wins at 359.1378585302182
+XM1014 wins at 410.3825646318972
+
+
+
+Matchup between M4A1 and MP9
+
+M4A1 wins at 683.2860041595274
+MP9 wins at 404.0318846391927
+
+
+
+Matchup between USP and M249
+
+USP wins at 355.29283696691664
+M249 wins at UNKNOWN
+
+
+
+Matchup between AUG and Bizon
+
+AUG wins at 967.6761087404042
+Bizon wins at 322.9256863350829
+
+
+
+Matchup between Negev and AUG
+
+Negev wins at 916.2355444707707
+AUG wins at 1013.9521240889
+
+
+
+Matchup between FiveSeven and Negev
+
+FiveSeven wins at 668.6862936892836
+Negev wins at 773.2462853091673
+
+
+
+Matchup between SawedOff and USP
+
+SawedOff wins at 281.49619076514665
+USP wins at 643.471337353963
+
+
+
+Matchup between FiveSeven and SawedOff
+
+FiveSeven wins at 558.89047938512
+SawedOff wins at 335.59077130583125
+
+
+
+Matchup between Negev and P90
+
+Negev wins at 446.26836240711856
+P90 wins at 410.3445895939148
+
+
+
+Matchup between Tec9 and Negev
+
+Tec9 wins at 349.0484739574987
+Negev wins at 479.6205077502639
+
+
+
+Matchup between SG556 and CZ
+
+SG556 wins at 597.6145109179348
+CZ wins at 536.5631846593362
+
+
+
+Matchup between Negev and USP
+
+Negev wins at 531.4841749259239
+USP wins at 942.7550355640547
+
+
+
+Matchup between SG556 and Scar20
+
+SG556 wins at 940.6909403852468
+Scar20 wins at 1386.2182363250795
+
+
+
+Matchup between SawedOff and Nova
+
+SawedOff wins at 224.04017496868727
+Nova wins at UNKNOWN
+
+
+
+Matchup between Swag7 and P250
+
+Swag7 wins at 341.2146055142145
+P250 wins at 381.738999287008
+
+
+
+Matchup between Swag7 and Scout
+
+Swag7 wins at 440.72603181294215
+Scout wins at 1058.7597729051265
+
+
+
+Matchup between XM1014 and Nova
+
+XM1014 wins at 374.13768499124467
+Nova wins at 351.7168859808392
+
+
+
+Matchup between DualBarettas and MP9
+
+DualBarettas wins at 463.35271899528436
+MP9 wins at 267.8888272981872
+
+
+
+Matchup between DualBarettas and UMP
+
+DualBarettas wins at 478.9894818516649
+UMP wins at 603.3720218496314
+
+
+
+Matchup between MP9 and P2000
+
+MP9 wins at 867.4197369209442
+P2000 wins at UNKNOWN
+
+
+
+Matchup between DualBarettas and Mac10
+
+DualBarettas wins at 441.8703494051646
+Mac10 wins at 461.04322590307964
+
+
+
+Matchup between CZ and DualBarettas
+
+CZ wins at 138.2316895650198
+DualBarettas wins at 305.58540332515463
+
+
+
+Matchup between Swag7 and Famas
+
+Swag7 wins at 317.52952618614853
+Famas wins at UNKNOWN
+
+
+
+Matchup between Mac10 and Swag7
+
+Mac10 wins at 610.9494799216561
+Swag7 wins at 373.2003790387576
+
+
+
+Matchup between M249 and Glock
+
+M249 wins at 489.41361592602675
+Glock wins at UNKNOWN
+
+
+
+Matchup between Famas and MP9
+
+Famas wins at 650.7236505503608
+MP9 wins at 597.5181350253441
+
+
+
+Matchup between P2000 and Negev
+
+P2000 wins at 569.889354358917
+Negev wins at 1434.5567259610195
+
+
+
+Matchup between G3SG1 and Famas
+
+G3SG1 wins at 1021.433200704736
+Famas wins at 538.3747550836649
+
+
+
+Matchup between USP and G3SG1
+
+USP wins at 834.7358398851377
+G3SG1 wins at 649.2910885698999
+
+
+
+Matchup between G3SG1 and Negev
+
+G3SG1 wins at 981.4277814482778
+Negev wins at UNKNOWN
+
+
+
+Matchup between Scout and G3SG1
+
+Scout wins at 1681.8355708321844
+G3SG1 wins at 1363.524308886153
+
+
+
+Matchup between G3SG1 and Mac10
+
+G3SG1 wins at 889.9690200291773
+Mac10 wins at UNKNOWN
+
+
+
+Matchup between G3SG1 and Bizon
+
+G3SG1 wins at 825.8589838737996
+Bizon wins at 443.0914126904289
+
+
+
+Matchup between G3SG1 and Tec9
+
+G3SG1 wins at 616.0525558040345
+Tec9 wins at 827.2653745926998
+
+
+
+Matchup between P2000 and DualBarettas
+
+P2000 wins at 506.2585767981199
+DualBarettas wins at 465.29443838229605
+
+
+
+Matchup between Negev and Negev
+
+Negev wins at 818.4078318942197
+Negev wins at 818.4078318942197
+
+
+
+Matchup between Glock and Nova
+
+Glock wins at 376.7777855354195
+Nova wins at 431.3190549662427
+
+
+
+Matchup between MP9 and AUG
+
+MP9 wins at 665.4049482742453
+AUG wins at 788.8995079714224
+
+
+
+Matchup between Nova and Deagle
+
+Nova wins at 412.1292623379732
+Deagle wins at 461.27133785249725
+
+
+
+Matchup between P2000 and Famas
+
+P2000 wins at 749.4778182174573
+Famas wins at 484.8509519829089
+
+
+
+Matchup between XM1014 and MP9
+
+XM1014 wins at 460.05624589195867
+MP9 wins at 430.0074202386489
+
+
+
+Matchup between XM1014 and XM1014
+
+XM1014 wins at 299.0820212588047
+XM1014 wins at 299.0820212588047
+
+
+
+Matchup between AUG and FiveSeven
+
+AUG wins at 406.3994149433442
+FiveSeven wins at 382.34119835176284
+
+
+
+Matchup between M4A4 and P2000
+
+M4A4 wins at 534.1539518073794
+P2000 wins at 454.98649143542343
+
+
+
+Matchup between P2000 and SawedOff
+
+P2000 wins at 177.91290003819284
+SawedOff wins at 386.56469389107053
+
+
+
+Matchup between AUG and P2000
+
+AUG wins at 515.0621321743621
+P2000 wins at UNKNOWN
+
+
+
+Matchup between DualBarettas and Bizon
+
+DualBarettas wins at 597.5855327652581
+Bizon wins at 416.47939797459884
+
+
+
+Matchup between Mac10 and Glock
+
+Mac10 wins at 516.844402274614
+Glock wins at 264.2407284525959
+
+
+
+Matchup between Famas and DualBarettas
+
+Famas wins at 225.55171172961693
+DualBarettas wins at 178.27302159928078
+
+
+
+Matchup between Swag7 and CZ
+
+Swag7 wins at 285.31811550872413
+CZ wins at 650.1297912309719
+
+
+
+Matchup between Scar20 and Glock
+
+Scar20 wins at 879.4912829646585
+Glock wins at 713.3577717862506
+
+
+
+Matchup between Scar20 and UMP
+
+Scar20 wins at 727.1939571050013
+UMP wins at 455.5487032008733
+
+
+
+Matchup between Scar20 and Scar20
+
+Scar20 wins at 752.7448233182529
+Scar20 wins at 752.7448233182529
+
+
+
+Matchup between Scout and Bizon
+
+Scout wins at 878.5196936620334
+Bizon wins at 515.5569726647815
+
+
+
+Matchup between Scout and MP9
+
+Scout wins at 991.3180908710372
+MP9 wins at 625.2685577888258
+
+
+
+Matchup between M4A1 and P2000
+
+M4A1 wins at 601.2259394639551
+P2000 wins at 462.7897334524866
+
+
+
+Matchup between FiveSeven and MP9
+
+FiveSeven wins at 534.3765731753587
+MP9 wins at 660.6051203808062
+
+
+
+Matchup between AUG and Nova
+
+AUG wins at 494.39275637981734
+Nova wins at 342.06865857441466
+
+
+
+Matchup between Bizon and MP9
+
+Bizon wins at 450.36324279019715
+MP9 wins at 339.45630685925323
+
+
+
+Matchup between P90 and M249
+
+P90 wins at 882.3265202878839
+M249 wins at 130.17680284904833
+
+
+
+Matchup between Famas and M249
+
+Famas wins at 1285.9743387797441
+M249 wins at 714.5830952380555
+
+
+
+Matchup between Nova and Mac10
+
+Nova wins at 415.85317745012196
+Mac10 wins at 447.1166207423556
+
+
+
+Matchup between UMP and G3SG1
+
+UMP wins at 336.78784512434567
+G3SG1 wins at 802.9029968448448
+
+
+
+Matchup between CZ and P2000
+
+CZ wins at 500.92050140486583
+P2000 wins at 578.5362219870341
+
+
+
+Matchup between SawedOff and P250
+
+SawedOff wins at 312.5381438142076
+P250 wins at 362.20498623612934
+
+
+
+Matchup between Deagle and SawedOff
+
+Deagle wins at 372.652475669069
+SawedOff wins at 82.89093582487322
+
+
+
+Matchup between Mac10 and Scar20
+
+Mac10 wins at 544.6357200922978
+Scar20 wins at 993.5842981161501
+
+
+
+Matchup between G3SG1 and MP9
+
+G3SG1 wins at 656.2207344832299
+MP9 wins at 490.54480117434304
+
+
+
+Matchup between P2000 and G3SG1
+
+P2000 wins at 649.1303505519274
+G3SG1 wins at 525.837427348035
+
+
+
+Matchup between MP7 and SawedOff
+
+MP7 wins at 410.86833913880685
+SawedOff wins at 191.47833306564206
+
+
+
+Matchup between Scar20 and MP7
+
+Scar20 wins at 979.6994304768092
+MP7 wins at 923.7156830685625
+
+
+
+Matchup between Gallil and G3SG1
+
+Gallil wins at 908.4316154780172
+G3SG1 wins at UNKNOWN
+
+
+
+Matchup between Mac10 and Negev
+
+Mac10 wins at 369.0684066182178
+Negev wins at 457.98093758561123
+
+
+
+Matchup between Mac10 and Tec9
+
+Mac10 wins at 523.4823392941769
+Tec9 wins at 290.6983010277848
+
+
+
+Matchup between Scout and SawedOff
+
+Scout wins at 370.7411495909242
+SawedOff wins at 343.25551288524974
+
+
+
+Matchup between Swag7 and MP9
+
+Swag7 wins at 301.1976904242247
+MP9 wins at UNKNOWN
+
+
+
+Matchup between P2000 and XM1014
+
+P2000 wins at 400.19389681986786
+XM1014 wins at 283.72783233446654
+
+
+
+Matchup between Swag7 and SawedOff
+
+Swag7 wins at 232.97379036905014
+SawedOff wins at 106.99895266823408
+
+
+
+Matchup between Negev and Bizon
+
+Negev wins at 371.1648438155296
+Bizon wins at 551.5899639163923
+
+
+
+Matchup between SG556 and M249
+
+SG556 wins at 386.997865951974
+M249 wins at 506.61863115925036
+
+
+
+Matchup between CZ and AUG
+
+CZ wins at 515.2353917812239
+AUG wins at 586.6628837070766
+
+
+
+Matchup between Scar20 and Famas
+
+Scar20 wins at 1343.1340216076726
+Famas wins at 842.2595995398287
+
+
+
+Matchup between G3SG1 and AUG
+
+G3SG1 wins at 870.2235153428489
+AUG wins at 859.167932095239
+
+
+
+Matchup between SawedOff and UMP
+
+SawedOff wins at 231.15608803126537
+UMP wins at 634.7133759809186
+
+
+
+Matchup between SawedOff and MP9
+
+SawedOff wins at 199.53233638192688
+MP9 wins at 234.48822294636642
+
+
+
+Matchup between Mac10 and XM1014
+
+Mac10 wins at 222.48057852354032
+XM1014 wins at 351.6800566599506
+
+
+
+Matchup between Scout and DualBarettas
+
+Scout wins at 850.0977021838356
+DualBarettas wins at 592.35479453105
+
+
+
+Matchup between CZ and CZ
+
+CZ wins at 439.864899186598
+CZ wins at 439.864899186598
+
+
+
+Matchup between MP7 and Negev
+
+MP7 wins at 387.1969981173331
+Negev wins at 599.6409687493326
+
+
+
+Matchup between Negev and Glock
+
+Negev wins at 561.2499170416478
+Glock wins at 245.46486510293076
+
+
+
+Matchup between Gallil and Negev
+
+Gallil wins at 655.3518129374404
+Negev wins at 788.3154560353754
+
+
+
+Matchup between Negev and Swag7
+
+Negev wins at 1010.3093585630096
+Swag7 wins at 231.4701674437769
+
+
+
+Matchup between Swag7 and G3SG1
+
+Swag7 wins at 474.3352078589425
+G3SG1 wins at UNKNOWN
+
+
+
+Matchup between AUG and Scar20
+
+AUG wins at 1400.5973642939873
+Scar20 wins at 1142.8740088041202
+
+
+
+Matchup between CZ and Nova
+
+CZ wins at 435.89882669730395
+Nova wins at 385.003888619977
+
+
+
+Matchup between P2000 and Nova
+
+P2000 wins at 138.04341821818545
+Nova wins at 205.47749268472205
+
+
+
+Matchup between Nova and Bizon
+
+Nova wins at 423.70033945219075
+Bizon wins at UNKNOWN
+
+
+
+Matchup between Nova and Nova
+
+Nova wins at 265.80067720004024
+Nova wins at 265.80067720004024
+
+
+
+Matchup between DualBarettas and SG556
+
+DualBarettas wins at 225.20435164534453
+SG556 wins at 467.0267658282553
+
+
+
+Matchup between Famas and XM1014
+
+Famas wins at 710.2693556140445
+XM1014 wins at 475.5369649660075
+
+
+
+Matchup between SG556 and Swag7
+
+SG556 wins at 727.8756898689439
+Swag7 wins at 321.6183679015438
+
+
+
+Matchup between SG556 and Glock
+
+SG556 wins at 412.7055955749114
+Glock wins at 466.02866381350486
+
+
+
+Matchup between Negev and CZ
+
+Negev wins at 720.6902541342529
+CZ wins at 297.2235584741165
+
+
+
+Matchup between AUG and SawedOff
+
+AUG wins at 573.987942423098
+SawedOff wins at 30.870698080866262
+
+
+
+Matchup between Scar20 and SawedOff
+
+Scar20 wins at 587.7232433294429
+SawedOff wins at UNKNOWN
+
+
+
+Matchup between Bizon and Bizon
+
+Bizon wins at 339.12172595574293
+Bizon wins at 339.12172595574293
+
+
+
+Matchup between G3SG1 and G3SG1
+
+G3SG1 wins at 567.77429548982
+G3SG1 wins at 567.77429548982
+
+
+
+Matchup between Scar20 and Bizon
+
+Scar20 wins at 1585.8317406225087
+Bizon wins at UNKNOWN
+
+
+
+Matchup between M249 and DualBarettas
+
+M249 wins at 245.3670719554684
+DualBarettas wins at UNKNOWN
+
+
+
+Matchup between G3SG1 and SG556
+
+G3SG1 wins at 1301.138732034367
+SG556 wins at 553.1365111796545
+
+
+
+Matchup between G3SG1 and XM1014
+
+G3SG1 wins at 1269.6596672658325
+XM1014 wins at 216.9815660373019
+
+
+
+Matchup between M249 and Deagle
+
+M249 wins at 307.74793876504117
+Deagle wins at 1050.5321745385943
+
+
+
+Matchup between AUG and Swag7
+
+AUG wins at 510.4076801930002
+Swag7 wins at UNKNOWN
+
+
+
+Matchup between DualBarettas and Swag7
+
+DualBarettas wins at 509.7750284924009
+Swag7 wins at 431.69520082552816
+
+
+
+Matchup between Bizon and SawedOff
+
+Bizon wins at 227.99434798686372
+SawedOff wins at 131.64345787011217
+
+
+
+Matchup between MP9 and Scar20
+
+MP9 wins at 200.40245029455758
+Scar20 wins at UNKNOWN
+
+
+
+Matchup between DualBarettas and DualBarettas
+
+DualBarettas wins at 303.4007251144928
+DualBarettas wins at 303.4007251144928
+
+
+
+Matchup between XM1014 and Scar20
+
+XM1014 wins at 464.34524311143025
+Scar20 wins at 897.9689748570783
+
+
+
+Matchup between M249 and P250
+
+M249 wins at 282.6719358843618
+P250 wins at 533.5167404682514
+
+
+
+Matchup between Swag7 and Swag7
+
+Swag7 wins at 245.01592223964713
+Swag7 wins at 245.01592223964713
+
+
+
+Matchup between XM1014 and Bizon
+
+XM1014 wins at 353.3433759760018
+Bizon wins at 352.4840189043679
+
+
+
+Matchup between FiveSeven and Swag7
+
+FiveSeven wins at 328.18439938546743
+Swag7 wins at 423.8207168131355
+
+
+
+Matchup between FiveSeven and M249
+
+FiveSeven wins at 407.0307113720045
+M249 wins at UNKNOWN
+
+
+
+Matchup between Mac10 and M249
+
+Mac10 wins at 424.54692793837853
+M249 wins at UNKNOWN
+
+
+
+Matchup between Gallil and DualBarettas
+
+Gallil wins at 740.7360461263166
+DualBarettas wins at 934.3837845426636
+
+
+
+Matchup between M249 and UMP
+
+M249 wins at 627.6854307692668
+UMP wins at 556.6506983737647
+
+
+
+Matchup between Bizon and M249
+
+Bizon wins at 550.262664552121
+M249 wins at UNKNOWN
+
+
+
+Matchup between Bizon and Swag7
+
+Bizon wins at 707.5932491500248
+Swag7 wins at UNKNOWN
+
+
+
+Matchup between M249 and G3SG1
+
+M249 wins at 576.8231964822496
+G3SG1 wins at UNKNOWN
+
+
+
+Matchup between Swag7 and Nova
+
+Swag7 wins at 452.3773337456289
+Nova wins at 357.0224082603219
+
+
+
+Matchup between SawedOff and Negev
+
+SawedOff wins at 246.95570692465506
+Negev wins at UNKNOWN
+
+
+
+Matchup between M249 and Gallil
+
+M249 wins at 260.4611295375953
+Gallil wins at UNKNOWN
+
+
+
+Matchup between M249 and P2000
+
+M249 wins at 561.0151513105507
+P2000 wins at UNKNOWN
+
+
+
+Matchup between DualBarettas and SawedOff
+
+DualBarettas wins at 195.0
+SawedOff wins at UNKNOWN
+
+
+
+Matchup between Scout and M249
+
+Scout wins at 1639.313270854598
+M249 wins at 1122.1452668883828
+
+
+
+Matchup between AUG and M249
+
+AUG wins at 402.715780669196
+M249 wins at UNKNOWN
+
+
+
+Matchup between Nova and Negev
+
+Nova wins at 648.9006087221678
+Negev wins at UNKNOWN
+
+
+
+Matchup between P2000 and Scar20
+
+P2000 wins at 147.48898263938224
+Scar20 wins at 419.38400371738305
+
+
+
+Matchup between Scar20 and DualBarettas
+
+Scar20 wins at 1093.4939414555529
+DualBarettas wins at UNKNOWN
+
+
+
+Matchup between Scout and Negev
+
+Scout wins at 503.87699345491467
+Negev wins at 1121.566667536475
+
+
+
+Matchup between G3SG1 and Nova
+
+G3SG1 wins at 526.5974934664459
+Nova wins at 258.22669281428807
+
+
+
+Matchup between MP7 and M249
+
+MP7 wins at 691.0752491588742
+M249 wins at UNKNOWN
+
+
+
+Matchup between MP9 and Negev
+
+MP9 wins at 1231.829939561464
+Negev wins at UNKNOWN
+
+
+
+Matchup between CZ and SawedOff
+
+CZ wins at 294.66030162944026
+SawedOff wins at 273.48126078398866
+
+
+
+Matchup between SawedOff and Mac10
+
+SawedOff wins at 329.59672328468315
+Mac10 wins at UNKNOWN
+
+
+
+Matchup between DualBarettas and AUG
+
+DualBarettas wins at 277.4058398808504
+AUG wins at UNKNOWN
+
+
+
+Matchup between DualBarettas and XM1014
+
+DualBarettas wins at 212.84031572989173
+XM1014 wins at 149.37536610833797
+
+
+
+Matchup between XM1014 and SawedOff
+
+XM1014 wins at 496.0960773924145
+SawedOff wins at UNKNOWN
+
+
+
+Matchup between SawedOff and SG556
+
+SawedOff wins at 250.12796724876648
+SG556 wins at UNKNOWN
+
+
+
+Matchup between Scar20 and Swag7
+
+Scar20 wins at 526.8617172034627
+Swag7 wins at UNKNOWN
+
+
+
+Matchup between M249 and M249
+
+M249 wins at 185.32673849177834
+M249 wins at 185.32673849177834
+
